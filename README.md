@@ -1,4 +1,4 @@
-# Assessment - Smart Hiring Platform
+# Assessment - Smart Hiring Platform https://mercor-assesment.vercel.app/
 
 A modern  hiring platform built with React, TypeScript, and Tailwind CSS. Features intelligent candidate filtering, diversity analytics, and streamlined team selection workflows.
 
